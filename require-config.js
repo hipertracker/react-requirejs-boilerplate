@@ -4,16 +4,17 @@ var require = {
     paths: {
         app: './app',
 
-        babel: 'bower_components/requirejs_babel/babel-4.6.6.min',
-        es6: 'bower_components/requirejs_babel/es6',
+        babel: 'vendor/requirejs_babel/babel-4.6.6.min',
+        babel_polyfill: 'vendor/browser-polyfill',
+        es6: 'vendor/requirejs_babel/es6',
 
-        react: 'bower_components/react/react-with-addons',
-        reflux: 'bower_components/reflux/dist/reflux',
+        react: 'vendor/react/react-with-addons',
+        reflux: 'vendor/reflux/dist/reflux'
     },
     shim: {
-        //babel: {
-        //    deps: ['babel_polyfill']
-        //}
+        babel: {
+            deps: ['babel_polyfill']
+        }
         //'react-router-shim': {
         //    exports: 'React'
         //},
