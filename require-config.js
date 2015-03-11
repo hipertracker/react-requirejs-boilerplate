@@ -5,7 +5,7 @@ var require = {
         app: './app',
 
         babel: 'vendor/requirejs_babel/babel-4.7.8.min',
-        babel_polyfill: 'vendor/browser-polyfill',
+        babel_polyfill: 'vendor/requirejs_babel/browser-polyfill',
         es6: 'vendor/requirejs_babel/es6',
 
         react: 'vendor/react/react-with-addons',
