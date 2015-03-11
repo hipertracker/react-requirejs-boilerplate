@@ -19,6 +19,6 @@
     "react": "~0.13.0",
     "reflux": "~0.2.6",
     "requirejs_text": "requirejs-text#~2.0.14",
-    "requirejs_babel_fork": "hipertracker/requirejs-babel"
+    "requirejs_babel": "hipertracker/requirejs-babel"
   }
 }

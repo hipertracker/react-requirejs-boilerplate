@@ -4,7 +4,7 @@ var require = {
     paths: {
         app: './app',
 
-        babel: 'vendor/requirejs_babel/babel-4.6.6.min',
+        babel: 'vendor/requirejs_babel/babel-4.7.8.min',
         babel_polyfill: 'vendor/browser-polyfill',
         es6: 'vendor/requirejs_babel/es6',
 
