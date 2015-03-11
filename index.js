@@ -1,1 +1,1 @@
-require(['es6!./app/mount']);
+require(['es6!./app/startup']);

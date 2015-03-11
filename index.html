@@ -7,8 +7,11 @@
     <title>react-babel</title>
 </head>
 <body>
-    <div id="app">Loading...</div>
+    <div id="HelloWorld">Loading...</div>
 </body>
 <script src="require-config.js"></script>
-<script data-main="index.js" src="bower_components/requirejs/require.js"></script>
+<script src="bower_components/requirejs/require.js"></script>
+<script>
+    require(['es6!./app/startup']);
+</script>
 </html>
