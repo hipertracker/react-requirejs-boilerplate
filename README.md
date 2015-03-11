@@ -1,13 +1,13 @@
 # react-babel
 
-Testing [requirejs-babel](https://github.com/philix/jsx-requirejs-plugin)
+Testing [requirejs-babel](https://github.com/mikach/requirejs-babel).
 
 The project uses two plugins for React & JSX
+
+  * [jsx_requirejs_plugin](https://github.com/philix/jsx-requirejs-plugin) - based on JSXTransformer
+  * [requirejs-babel](https://github.com/mikach/requirejs-babel) - based on [Babel](http://babeljs.io/)
  
- * [jsx_requirejs_plugin](https://github.com/philix/jsx-requirejs-plugin) - based on JSXTransformer
- * [requirejs-babel](https://github.com/philix/jsx-requirejs-plugin) - based on [Babel](http://babeljs.io/)
- 
- The fist one is working fine. The second one is not working. `require('es6!app/components/App')` 
+The fist one is working fine. The second one is not working. `require('es6!app/components/App')` 
  is returning an empty object.
  
 index.js:
