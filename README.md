@@ -4,7 +4,7 @@ Testing [requirejs-babel](https://github.com/philix/jsx-requirejs-plugin)
 
 The project uses two plugins for React & JSX
  
- * [jsx_requirejs_plugin]](https://github.com/philix/jsx-requirejs-plugin) - based on JSXTransformer
+ * [jsx_requirejs_plugin](https://github.com/philix/jsx-requirejs-plugin) - based on JSXTransformer
  * [requirejs-babel](https://github.com/philix/jsx-requirejs-plugin) - based on [Babel](http://babeljs.io/)
  
  The fist one is working fine. The second one is not working. `require('es6!app/components/App')` 
