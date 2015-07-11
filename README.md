@@ -21,8 +21,8 @@ open http://localhost:3000
 
 ### Babel ES6+ & React
 
-* React on ES6+ [http://babeljs.io/blog/2015/06/07/react-on-es6-plus/](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/)
-* Learn ES2015. A detailed overview of ECMAScript 6 features http://babeljs.io/docs/learn-es2015/
+* [React on ES6+](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/)
+* [Learn ES2015. A detailed overview of ECMAScript 6 feature](http://babeljs.io/docs/learn-es2015/) 
 
 ### Dev tools
 
@@ -38,7 +38,7 @@ open http://localhost:3000
 
 * [Flux: No More Stores, Meet Reducer](https://blog.javascripting.com/2015/06/19/flux-no-more-stores-meet-reducer/) + [discussion on Reddit](https://www.reddit.com/r/javascript/comments/3ap0y6/flux_no_more_stores_meet_reducer/)
 
-* Dan Abramov - Live React: Hot Reloading with Time Travel [https://www.youtube.com/watch?v=xsSnOQynTHs](https://www.youtube.com/watch?v=xsSnOQynTHs) (react-europe 2015)
+* **[Dan Abramov - Live React: Hot Reloading with Time Travel]**(https://www.youtube.com/watch?v=xsSnOQynTHs) (react-europe 2015)
 
 The best Flux libs:
 
