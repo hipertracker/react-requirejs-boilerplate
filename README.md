@@ -54,9 +54,9 @@ The best Flux libs:
 
 * Immutable Data and React [https://www.youtube.com/watch?v=I7IdS-PbEgI](https://www.youtube.com/watch?v=I7IdS-PbEgI) (React.js Conf 2015)
 
-* Lee Byron - Exploring GraphQL at react-europe 2015 https://www.youtube.com/watch?v=WQLzZf34FJ8(author of Redux)
+* Lee Byron - Exploring GraphQL at react-europe 2015 https://www.youtube.com/watch?v=WQLzZf34FJ8
 
-* Joseph Savona - Relay: An Application Framework For React at react-europe 2015https://www.youtube.com/watch?v=IrgHurBjQbg
+* Joseph Savona - Relay: An Application Framework For React at react-europe 2015 https://www.youtube.com/watch?v=IrgHurBjQbg
 
 ### Mobile
 
