@@ -36,7 +36,7 @@ open http://localhost:3000
 
 * [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
 
-* [Flux: No More Stores, Meet Reducer]([https://blog.javascripting.com/2015/06/19/flux-no-more-stores-meet-reducer/]) + [discussion on Reddit](https://www.reddit.com/r/javascript/comments/3ap0y6/flux_no_more_stores_meet_reducer/)
+* [Flux: No More Stores, Meet Reducer](https://blog.javascripting.com/2015/06/19/flux-no-more-stores-meet-reducer/) + [discussion on Reddit](https://www.reddit.com/r/javascript/comments/3ap0y6/flux_no_more_stores_meet_reducer/)
 
 * Dan Abramov - Live React: Hot Reloading with Time Travel [https://www.youtube.com/watch?v=xsSnOQynTHs](https://www.youtube.com/watch?v=xsSnOQynTHs) (react-europe 2015)
 
