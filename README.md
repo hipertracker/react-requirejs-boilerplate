@@ -26,8 +26,8 @@ open http://localhost:3000
 
 ### Dev tools
 
-* Flow - a static type checked for JavaScript [http://flowtype.org/](http://flowtype.org/)
-
+* [Flow]((http://flowtype.org/)) - a static type checked for JavaScript
+* [Flowcheck.js](http://gcanti.github.io/flowcheck/) - Runtime type checking for Flow
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) (Chrome extension)
 
 ### Data workflow
