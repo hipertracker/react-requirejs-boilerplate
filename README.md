@@ -58,14 +58,21 @@ The best Flux libs:
 
 * Joseph Savona - Relay: An Application Framework For React at react-europe 2015 https://www.youtube.com/watch?v=IrgHurBjQbg
 
+* [GraphQL in the age of REST APIs](https://medium.com/chute-engineering/graphql-in-the-age-of-rest-apis-b10f2bf09bba) 
+
+
 ### Mobile
 
 * **React Native** [https://facebook.github.io/react-native/](https://facebook.github.io/react-native/)
 
 ### Other
 
-* It's much easier to recover from "No abstraction" then a "Wrong abstraction"  - Sebastian Markbage: Minimal API Surface Area [http://2014.jsconf.eu/speakers/sebastian-markbage-minimal-api-surface-area-learning-patterns-instead-of-frameworks.html](http://2014.jsconf.eu/speakers/sebastian-markbage-minimal-api-surface-area-learning-patterns-instead-of-frameworks.html) (JSConf EU 2014)
+* It's much easier to recover from "No abstraction" then a "Wrong abstraction"  -  [Sebastian Markbage: Minimal API Surface Area](http://2014.jsconf.eu/speakers/sebastian-markbage-minimal-api-surface-area-learning-patterns-instead-of-frameworks.html) (JSConf EU 2014)
                        
+* [Turning the Database Inside Out](https://www.youtube.com/watch?v=fU9hR3kiOK0)
+* [Inventing on Principle](https://vimeo.com/36579366)
+* [Developing ClojureScript with Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E)
+
 * React Europe 2015 [at Youtube](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A) 
 
 * React.js Conf 2015 [at Youtube](https://www.youtube.com/watch?v=KVZ-P-ZI6W4&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) 
