@@ -56,7 +56,7 @@ The best Flux libs:
 
 * Lee Byron - Exploring GraphQL at react-europe 2015 https://www.youtube.com/watch?v=WQLzZf34FJ8
 
-* Joseph Savona - Relay: An Application Framework For React at react-europe 2015 https://www.youtube.com/watch?v=IrgHurBjQbg
+* [Joseph Savona - Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg) at react-europe 2015 
 
 * [GraphQL in the age of REST APIs](https://medium.com/chute-engineering/graphql-in-the-age-of-rest-apis-b10f2bf09bba) 
 
