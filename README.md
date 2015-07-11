@@ -38,7 +38,7 @@ open http://localhost:3000
 
 * [Flux: No More Stores, Meet Reducer](https://blog.javascripting.com/2015/06/19/flux-no-more-stores-meet-reducer/) + [discussion on Reddit](https://www.reddit.com/r/javascript/comments/3ap0y6/flux_no_more_stores_meet_reducer/)
 
-* **[Dan Abramov - Live React: Hot Reloading with Time Travel]**(https://www.youtube.com/watch?v=xsSnOQynTHs) (react-europe 2015)
+* [**Dan Abramov - Live React: Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs) (react-europe 2015)
 
 The best Flux libs:
 
