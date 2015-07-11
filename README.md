@@ -52,13 +52,13 @@ The best Flux libs:
 
 #### Immutability, GraphQL and Relay
 
-* Immutable Data and React [https://www.youtube.com/watch?v=I7IdS-PbEgI](https://www.youtube.com/watch?v=I7IdS-PbEgI) (React.js Conf 2015)
+* [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) (React.js Conf 2015)
 
-* Lee Byron - Exploring GraphQL at react-europe 2015 https://www.youtube.com/watch?v=WQLzZf34FJ8
+* [Lee Byron - Exploring GraphQL](https://www.youtube.com/watch?v=WQLzZf34FJ8) (React Europe 2015) 
 
-* [Joseph Savona - Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg) at react-europe 2015 
+* [Joseph Savona - Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg) (React Europe 2015) 
 
-* [GraphQL in the age of REST APIs](https://medium.com/chute-engineering/graphql-in-the-age-of-rest-apis-b10f2bf09bba) 
+* [GraphQL in the age of REST APIs](https://medium.com/chute-engineering/graphql-in-the-age-of-rest-apis-b10f2bf09bba) (React Europe 2015) 
 
 
 ### Mobile
@@ -67,7 +67,7 @@ The best Flux libs:
 
 ### Other
 
-* It's much easier to recover from "No abstraction" then a "Wrong abstraction"  -  [Sebastian Markbage: Minimal API Surface Area](http://2014.jsconf.eu/speakers/sebastian-markbage-minimal-api-surface-area-learning-patterns-instead-of-frameworks.html) (JSConf EU 2014)
+* [Sebastian Markbage: Minimal API Surface Area](http://2014.jsconf.eu/speakers/sebastian-markbage-minimal-api-surface-area-learning-patterns-instead-of-frameworks.html) (JSConf EU 2014) - It's much easier to recover from "No abstraction" then a "Wrong abstraction" 
                        
 * [Turning the Database Inside Out](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 * [Inventing on Principle](https://vimeo.com/36579366)
