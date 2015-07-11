@@ -1,26 +1,34 @@
+var vendorPath = 'node_modules';
+
 var require = {
     waitSeconds: 200,
-    baseUrl: '..',
+    baseUrl: '.',
     paths: {
         app: './app',
 
-        babel: 'vendor/requirejs_babel/babel-4.7.8.min',
-        babel_polyfill: 'vendor/requirejs_babel/browser-polyfill',
-        es6: 'vendor/requirejs_babel/es6',
+        babel: vendorPath + '/requirejs-babel/browser',
+        polyfill: vendorPath + '/requirejs-babel/polyfill',
+        es6: vendorPath + '/requirejs-babel/es6',
+        text: vendorPath + '/text/lib/index',
 
-        react: 'vendor/react/react-with-addons',
-        reflux: 'vendor/reflux/dist/reflux'
+        react: vendorPath + '/react/dist/react-with-addons'
+
+        //immutable: vendor_path + '/dist/immutable',
+        //nuclear: vendor_path + '/nuclear-js/dist/nuclear',
+        //ramda: vendor_path + '/ramda/ramda'
     },
     shim: {
         babel: {
-            deps: ['babel_polyfill']
+            deps: ['polyfill']
         }
-        //'react-router-shim': {
-        //    exports: 'React'
-        //},
-        //'react-router': {
-        //    deps: ['react-router-shim'],
-        //    exports: 'ReactRouter'
-        //}
     }
 };
+
+if (window.env === 'prod') {
+    require.paths.babel = vendorPath + '/requirejs-babel/browser.min';
+    require.paths.polyfill = vendorPath + '/requirejs-babel/polyfill.min';
+    require.paths.react = vendorPath + '/react/dist/react-with-addons.min';
+    //require.paths.immutable = vendor_path + '/dist/immutable.min';
+    //require.paths.nuclear = vendor_path + '/nuclear-js/dist/nuclear.min';
+    //require.paths.ramda = vendor_path + '/ramda/ramda.min';
+}

@@ -1,13 +1,12 @@
-import React from 'react'
+import React from 'react';
 
-const Hello = React.createClass({
+export default class Hello extends React.Component {
     render() {
         return (
             <section>
                 Hello World!
             </section>
-        )
+        );
     }
-});
+}
 
-export default Hello;

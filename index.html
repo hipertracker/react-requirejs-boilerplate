@@ -4,14 +4,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>react-babel</title>
+    <title>react-requirejs-boilerplate</title>
 </head>
 <body>
+
     <div id="HelloWorld">Loading...</div>
+
+    <script src="require-config.js"></script>
+    <script src="node_modules/requirejs/require.js" data-main="es6!app/startup"></script>
 </body>
-<script src="require-config.js"></script>
-<script src="vendor/requirejs/require.js"></script>
-<script>
-    require(['es6!app/startup']);
-</script>
+
 </html>
