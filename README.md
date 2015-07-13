@@ -50,7 +50,7 @@ The best Flux libs:
 
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) (React.js Conf 2015)
 * [Immutable-JS](https://facebook.github.io/immutable-js/)
-* 
+
 #### GraphQL and Relay
 
 * [GraphQL in the age of REST APIs](https://medium.com/chute-engineering/graphql-in-the-age-of-rest-apis-b10f2bf09bba) (React Europe 2015) 
