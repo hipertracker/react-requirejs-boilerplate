@@ -48,15 +48,17 @@ The best Flux libs:
 * Fluxible [http://fluxible.io/](http://fluxible.io)
 
 
-#### Immutability, GraphQL and Relay
+#### Immutability, 
 
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) (React.js Conf 2015)
-
-* [Lee Byron - Exploring GraphQL](https://www.youtube.com/watch?v=WQLzZf34FJ8) (React Europe 2015) 
-
-* [Joseph Savona - Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg) (React Europe 2015) 
+* [Immutable-JS](https://facebook.github.io/immutable-js/)
+* 
+#### GraphQL and Relay
 
 * [GraphQL in the age of REST APIs](https://medium.com/chute-engineering/graphql-in-the-age-of-rest-apis-b10f2bf09bba) (React Europe 2015) 
+* [Exploring GraphQL](https://www.youtube.com/watch?v=WQLzZf34FJ8) (React Europe 2015) 
+* [Creating a GraphQL Serve](https://www.youtube.com/watch?v=gY48GW87Feo) (React Europe 2015)
+* [Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg) (React Europe 2015) 
 
 
 ### Mobile
@@ -70,6 +72,8 @@ The best Flux libs:
 * [Turning the Database Inside Out](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 * [Inventing on Principle](https://vimeo.com/36579366)
 * [Developing ClojureScript with Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E)
+
+#### Conferences
 
 * React Europe 2015 [at Youtube](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A) 
 
