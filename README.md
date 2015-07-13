@@ -57,7 +57,8 @@ The best Flux libs:
 * [Exploring GraphQL](https://www.youtube.com/watch?v=WQLzZf34FJ8) (React Europe 2015) 
 * [Creating a GraphQL Serve](https://www.youtube.com/watch?v=gY48GW87Feo) (React Europe 2015)
 * [Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg) (React Europe 2015) 
-
+* [JSON Graph: Reactive REST at Netflix](https://www.youtube.com/watch?v=hOE6nVVr14c) alternative to Relay, created by Netflix
+* [From Flux to Relay and GraphQL](https://www.youtube.com/watch?v=FPygOvYLmJA) (React London May 2015)
 
 ### Mobile
 
@@ -69,6 +70,9 @@ The best Flux libs:
 * [Turning the Database Inside Out](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 * [Inventing on Principle](https://vimeo.com/36579366)
 * [Developing ClojureScript with Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E)
+
+#### Clojure & ClojureScript
+* [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8)
 
 #### Conferences
 
