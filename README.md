@@ -26,7 +26,7 @@ open http://localhost:3000
 
 ### Dev tools
 
-* [Flow]((http://flowtype.org/)) - a static type checked for JavaScript
+* [Flow](http://flowtype.org/) - a static type checked for JavaScript
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) (Chrome extension)
 
 ### Data workflow
