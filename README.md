@@ -43,7 +43,7 @@ The best Flux libs:
 * **Redux** [https://github.com/gaearon/redux](https://github.com/gaearon/redux), successor of [Flummox](http://acdlite.github.io/flummox), isomorphic, minimal state, stateless stores, flexible, minimalistic, promising, Chrome extension with "time travel" soon.
 * Alt [http://alt.js.org/](http://alt.js.org/) + [Chrome extension](https://github.com/goatslacker/alt-devtool) isomorphic
 * Marty [http://martyjs.org/](http://martyjs.org/) + [Chrome extension](https://chrome.google.com/…/fifcikknnbggajppebgolpkaambnkpae), isomorphic
-* Fluxible [http://fluxible.io/](http://fluxible.io), isomorphic, used by Amazon
+* Fluxible [http://fluxible.io/](http://fluxible.io), isomorphic, close to original Flux, used by Amazon in production
 
 
 #### Immutability, 
