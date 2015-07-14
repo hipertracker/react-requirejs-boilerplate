@@ -1,6 +1,6 @@
 # react-requirejs-boilerplate
 
-Example of using [requirejs-babel](https://github.com/hipertracker/requirejs-babel)
+Example of using [requirejs-babel](https://github.com/hipertracker/requirejs-babel). There is no Webpack/Browsify processing required. It just uses a browser. Useful when NodeJS cannot be used or is forbiden. ES6+ syntax is provided by [Babel](http://babeljs.io).
 
 ## Install
 
