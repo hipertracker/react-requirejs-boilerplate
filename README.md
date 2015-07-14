@@ -69,6 +69,7 @@ The best Flux libs:
 * [Sebastian Markbage: Minimal API Surface Area](http://2014.jsconf.eu/speakers/sebastian-markbage-minimal-api-surface-area-learning-patterns-instead-of-frameworks.html) (JSConf EU 2014) - It's much easier to recover from "No abstraction" then a "Wrong abstraction" 
 * [Turning the Database Inside Out](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 * [Inventing on Principle](https://vimeo.com/36579366)
+* [Isomorphic JavaScript](http://isomorphic.net/)
 
 #### Clojure & ClojureScript
 
