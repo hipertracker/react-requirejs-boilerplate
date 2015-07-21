@@ -46,7 +46,7 @@ The best Flux libs:
 * Fluxible [http://fluxible.io/](http://fluxible.io), close to original Flux but isomorphic and it's used by Yahoo in production.
 
 
-#### Immutability, 
+#### Immutability
 
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) (React.js Conf 2015)
 * [Immutable-JS](https://facebook.github.io/immutable-js/)
