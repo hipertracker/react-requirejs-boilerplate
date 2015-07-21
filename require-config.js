@@ -14,6 +14,7 @@ var require = {
         react: vendorPath + '/react/dist/react-with-addons'
         classnames: vendorPath + 'classnames/index',
         immutable: vendorPath + '/immutable/dist/immutable',
+        marty: vendorPath + 'marty/dist/marty'
     },
     shim: {
         babel: {
@@ -27,4 +28,5 @@ if (window.env === 'prod') {
     require.paths.polyfill = vendorPath + '/requirejs-babel/polyfill.min';
     require.paths.react = vendorPath + '/react/dist/react-with-addons.min';
     require.paths.immutable = vendorPath + '/immutable/dist/immutable.min';
+    require.paths.marty = vendorPath + 'marty/dist/marty.min';
 }
