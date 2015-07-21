@@ -1,18 +1,28 @@
 import React from 'react';
 
-// generators work with babel-polyfill.js
-function* foo() {
-    yield 1;
+// see more http://babeljs.io/docs/learn-es2015/
+
+var fibonacci = {
+    [Symbol.iterator]: function*() {
+        var pre = 0, cur = 1;
+        for (;;) {
+            var temp = pre;
+            pre = cur;
+            cur += temp;
+            yield cur;
+        }
+    }
+};
+
+for (var n of fibonacci) {
+    // truncate the sequence at 1000
+    if (n > 1000) {
+        break;
+    }
+    console.log(n);
 }
 
-// Babel experimental:
-let { x, y, ...z } = {x: 1, y: 2, a: 3, b: 4};
-console.log('@Babel experimental:');
-console.log('@x:', x);
-console.log('@y:', y);
-console.log('@z:', z);
-
-console.log(foo(1).next());
 
 import HelloWorld from 'es6!./components/HelloWorld';
-React.render(React.createElement(HelloWorld), document.getElementById('HelloWorld'));
+
+React.render(<HelloWorld name="Jarek"/>, document.getElementById('HelloWorld'));
