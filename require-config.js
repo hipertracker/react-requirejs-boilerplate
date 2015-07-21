@@ -12,10 +12,8 @@ var require = {
         text: vendorPath + '/text/lib/index',
 
         react: vendorPath + '/react/dist/react-with-addons'
-
-        //immutable: vendorPath + '/immutable/dist/immutable',
-        //nuclear: vendorPath + '/nuclear-js/dist/nuclear',
-        //ramda: vendorPath + '/ramda/ramda'
+        classnames: vendorPath + 'classnames/index',
+        immutable: vendorPath + '/immutable/dist/immutable',
     },
     shim: {
         babel: {
@@ -28,7 +26,5 @@ if (window.env === 'prod') {
     require.paths.babel = vendorPath + '/requirejs-babel/browser.min';
     require.paths.polyfill = vendorPath + '/requirejs-babel/polyfill.min';
     require.paths.react = vendorPath + '/react/dist/react-with-addons.min';
-    //require.paths.immutable = vendorPath + '/immutable/dist/immutable.min';
-    //require.paths.nuclear = vendorPath + '/nuclear-js/dist/nuclear.min';
-    //require.paths.ramda = vendorPath + '/ramda/ramda.min';
+    require.paths.immutable = vendorPath + '/immutable/dist/immutable.min';
 }
