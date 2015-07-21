@@ -39,10 +39,11 @@ open http://localhost:3000
 
 The best Flux libs:
 
-* **Nuclear-JS** [http://optimizely.github.io/nuclear-js/](http://optimizely.github.io/nuclear-js/), minimal state, immutable structures, inspired by [Om](https://github.com/omcljs/om), isomorphic soon
+* **Nuclear-JS** [http://optimizely.github.io/nuclear-js/](http://optimizely.github.io/nuclear-js/), minimal state, default immutable state, inspired by [Om](https://github.com/omcljs/om), isomorphic soon
 * **Redux** [https://github.com/gaearon/redux](https://github.com/gaearon/redux), successor of [Flummox](http://acdlite.github.io/flummox), isomorphic, minimal state, stateless stores, flexible, minimalistic, Chrome extension with "[time travel](https://www.youtube.com/watch?v=xsSnOQynTHs)" soon.
+* **Marty** [http://martyjs.org/](http://martyjs.org/) + [Chrome extension]
 * Alt [http://alt.js.org/](http://alt.js.org/) + [Chrome extension](https://github.com/goatslacker/alt-devtool), isomorphic
-* Marty [http://martyjs.org/](http://martyjs.org/) + [Chrome extension](https://chrome.google.com/…/fifcikknnbggajppebgolpkaambnkpae), isomorphic
+(https://chrome.google.com/…/fifcikknnbggajppebgolpkaambnkpae), isomorphic
 * Fluxible [http://fluxible.io/](http://fluxible.io), close to original Flux but isomorphic and it's used by Yahoo in production.
 
 
