@@ -14,7 +14,9 @@ var require = {
         react: vendorPath + '/react/dist/react-with-addons'
         classnames: vendorPath + 'classnames/index',
         immutable: vendorPath + '/immutable/dist/immutable',
-        marty: vendorPath + 'marty/dist/marty'
+        
+        marty: vendorPath + 'marty/dist/marty',
+        'react-bootstrap': vendorPath + 'react_bootstrap/dist/react-bootstrap'
     },
     shim: {
         babel: {
@@ -29,4 +31,5 @@ if (window.env === 'prod') {
     require.paths.react = vendorPath + '/react/dist/react-with-addons.min';
     require.paths.immutable = vendorPath + '/immutable/dist/immutable.min';
     require.paths.marty = vendorPath + 'marty/dist/marty.min';
+    require.paths['react-bootstrap'] = vendorPath + 'react_bootstrap/dist/react-bootstrap.min';
 }
