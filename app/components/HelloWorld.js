@@ -1,10 +1,15 @@
-import React from 'react';
+import React, { PropTypes } from 'react';
 
-export default class Hello extends React.Component {
+export default class HelloWorld extends React.Component {
+    static propTypes = {
+        name: PropTypes.string.isRequired
+    };
+
     render() {
+        const {name} = this.props;
         return (
             <section>
-                Hello World!
+                Hello {name}!
             </section>
         );
     }
