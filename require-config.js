@@ -9,14 +9,10 @@ var require = {
         babel: vendorPath + '/requirejs-babel/browser',
         polyfill: vendorPath + '/requirejs-babel/polyfill',
         es6: vendorPath + '/requirejs-babel/es6',
-        text: vendorPath + '/text/lib/index',
 
-        react: vendorPath + '/react/dist/react-with-addons'
-        classnames: vendorPath + 'classnames/index',
-        immutable: vendorPath + '/immutable/dist/immutable',
-        
-        marty: vendorPath + 'marty/dist/marty',
-        'react-bootstrap': vendorPath + 'react_bootstrap/dist/react-bootstrap'
+        react: vendorPath + '/react/dist/react-with-addons',
+        classnames: vendorPath + 'classnames/index'
+
     },
     shim: {
         babel: {
@@ -25,11 +21,8 @@ var require = {
     }
 };
 
-if (window.env === 'prod') {
+if (window.ENV === 'prod') {
     require.paths.babel = vendorPath + '/requirejs-babel/browser.min';
     require.paths.polyfill = vendorPath + '/requirejs-babel/polyfill.min';
     require.paths.react = vendorPath + '/react/dist/react-with-addons.min';
-    require.paths.immutable = vendorPath + '/immutable/dist/immutable.min';
-    require.paths.marty = vendorPath + 'marty/dist/marty.min';
-    require.paths['react-bootstrap'] = vendorPath + 'react_bootstrap/dist/react-bootstrap.min';
 }

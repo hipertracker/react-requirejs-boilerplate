@@ -1,6 +1,6 @@
 {
   "name": "react-requirejs-boilerplate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Using [React](http://facebook.github.io/react/) with JSX, ES6 modules and all other ES6 and experimental ES7  features provided by [Babel](https://babeljs.io/) transpiler. ES6 files are transpiled on fly (and cached) by the browser  alone (no Grunt/Gulp/Broccoli processing is needed).",
   "main": "require-config.js",
   "scripts": {
@@ -18,15 +18,13 @@
   },
   "homepage": "https://github.com/hipertracker/react-requirejs-boilerplate#readme",
   "dependencies": {
-    "core-decorators": "^0.1.2",
+    "classnames": "^2.1.3",
+    "core-decorators": "^0.1.5",
     "flowcheck": "^0.2.7",
     "immutable": "^3.7.4",
     "react": "^0.13.3",
-    "classnames": "^2.1.3",
-    "requirejs": "^2.1.19",
-    "requirejs-babel": "hipertracker/requirejs-babel",
-    "text": "^0.1.0",
-    "marty": "^0.10.4"
+    "requirejs": "^2.1.20",
+    "requirejs-babel": "hipertracker/requirejs-babel"
   },
   "devDependencies": {
     "babel-eslint": "^3.1.23",

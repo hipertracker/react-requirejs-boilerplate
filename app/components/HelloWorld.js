@@ -1,6 +1,6 @@
-import React, { PropTypes } from 'react';
+import React, { Component, PropTypes } from 'react';
 
-export default class HelloWorld extends React.Component {
+export default class HelloWorld extends Component {
     static propTypes = {
         name: PropTypes.string.isRequired
     };
